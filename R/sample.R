@@ -6,7 +6,7 @@
 #' my_sample(x)
 #' @export
 
-my_sample = function(x){
+jy_sample = function(x){
   y = x^2+200
   return(y)
 }
