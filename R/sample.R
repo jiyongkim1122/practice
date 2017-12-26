@@ -7,6 +7,6 @@
 #' @export
 
 my_sample = function(x){
-  y = x^2+10
+  y = x^2+200
   return(y)
 }
